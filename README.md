@@ -7,13 +7,13 @@ For this challenge I decided to use FastAPI, as it allows for quick high perform
 ## Installation
 Clone git repository 
 ```bash
-git clone REPO_LINK
+git clone https://github.com/brain8d/powerplant-coding-challenge.git
 ```
-Next step is to install dependencies
+Next step is to install dependencies \
 `pip install -r requirements.txt`
 
 ## Launch API
-To launch the API simply run the python script
+To launch the API simply run the python script \
 `python main.py`
 
 # Use the API
